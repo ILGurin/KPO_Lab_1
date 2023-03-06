@@ -14,5 +14,6 @@ int main()
 	}
 	if (nx == 0 && ny == 0 && nz == 0) cout << "YES";
 	else cout << "NO";
+	cout << "test" << endl;
 	return 0;
 }
